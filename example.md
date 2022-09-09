@@ -43,6 +43,6 @@ English level
 :   **Advanced**
 
 
-![Me](img/black.jpg)
+![Me](img/Vlad.jpg)
 
 
