@@ -35,4 +35,14 @@ Experience
 ----------
 
 
+Cources
+----------
+ 1. English course
+
+English level
+:   **Advanced**
+
+
+![Me](img/black.jpg)
+
 
