@@ -25,15 +25,11 @@ Skills
 3. JavaScript
 4. Figma
 5. Word
-
-
-Code example
----------
-
+6. C#
 
 Experience
 ----------
-
+Modsen summer supractice. 3 years of studyng.
 
 Cources
 ----------
